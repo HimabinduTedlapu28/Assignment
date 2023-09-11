@@ -1,7 +1,0 @@
-C:\Users\himabindute\source\repos\assignkment 02\assignkment 02\bin\Debug\assignkment 02.exe.config
-C:\Users\himabindute\source\repos\assignkment 02\assignkment 02\bin\Debug\assignkment 02.exe
-C:\Users\himabindute\source\repos\assignkment 02\assignkment 02\bin\Debug\assignkment 02.pdb
-C:\Users\himabindute\source\repos\assignkment 02\assignkment 02\obj\Debug\assignkment 02.csproj.AssemblyReference.cache
-C:\Users\himabindute\source\repos\assignkment 02\assignkment 02\obj\Debug\assignkment 02.csproj.CoreCompileInputs.cache
-C:\Users\himabindute\source\repos\assignkment 02\assignkment 02\obj\Debug\assignkment 02.exe
-C:\Users\himabindute\source\repos\assignkment 02\assignkment 02\obj\Debug\assignkment 02.pdb
