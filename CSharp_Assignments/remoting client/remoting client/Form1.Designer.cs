@@ -36,6 +36,7 @@ namespace remoting_client
             this.button1 = new System.Windows.Forms.Button();
             this.btnHighest = new System.Windows.Forms.Button();
             this.btnlowest = new System.Windows.Forms.Button();
+            this.txtresult = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // lblnum1
@@ -99,11 +100,20 @@ namespace remoting_client
             this.btnlowest.UseVisualStyleBackColor = true;
             this.btnlowest.Click += new System.EventHandler(this.btnlowest_Click);
             // 
+            // txtresult
+            // 
+            this.txtresult.Location = new System.Drawing.Point(534, 120);
+            this.txtresult.Name = "txtresult";
+            this.txtresult.Size = new System.Drawing.Size(136, 20);
+            this.txtresult.TabIndex = 7;
+            this.txtresult.TextChanged += new System.EventHandler(this.txtdisplay_TextChanged);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.txtresult);
             this.Controls.Add(this.btnlowest);
             this.Controls.Add(this.btnHighest);
             this.Controls.Add(this.button1);
@@ -128,6 +138,7 @@ namespace remoting_client
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button btnHighest;
         private System.Windows.Forms.Button btnlowest;
+        private System.Windows.Forms.TextBox txtresult;
     }
 }
 
