@@ -1,0 +1,7 @@
+C:\LINQ ASSIGNMENT\Linq Assignment\Linq Assignment\bin\Debug\Linq Assignment.exe.config
+C:\LINQ ASSIGNMENT\Linq Assignment\Linq Assignment\bin\Debug\Linq Assignment.exe
+C:\LINQ ASSIGNMENT\Linq Assignment\Linq Assignment\bin\Debug\Linq Assignment.pdb
+C:\LINQ ASSIGNMENT\Linq Assignment\Linq Assignment\obj\Debug\Linq Assignment.csproj.AssemblyReference.cache
+C:\LINQ ASSIGNMENT\Linq Assignment\Linq Assignment\obj\Debug\Linq Assignment.csproj.CoreCompileInputs.cache
+C:\LINQ ASSIGNMENT\Linq Assignment\Linq Assignment\obj\Debug\Linq Assignment.exe
+C:\LINQ ASSIGNMENT\Linq Assignment\Linq Assignment\obj\Debug\Linq Assignment.pdb
